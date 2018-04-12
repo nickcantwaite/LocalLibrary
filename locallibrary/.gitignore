@@ -1,4 +1,5 @@
-\lib
-\include
-\scripts
-\tcl
+/Lib
+/Include
+/Scripts
+/tcl
+/pip-selfcheck.json

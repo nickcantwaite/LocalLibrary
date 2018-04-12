@@ -1,0 +1,10 @@
+# logs
+logs
+*.log
+
+# folders
+.Include
+.Lib
+.Scripts
+.tcl
+

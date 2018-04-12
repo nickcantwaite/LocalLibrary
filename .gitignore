@@ -3,7 +3,7 @@ logs
 *.log
 
 # folders
-Include
+Include #cannot have a / or . for dir. unless specifying subfolder. Include/folder
 Lib
 Scripts
 tcl

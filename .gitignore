@@ -3,8 +3,8 @@ logs
 *.log
 
 # folders
-.Include
-.Lib
-.Scripts
-.tcl
+Include
+Lib
+Scripts
+tcl
 
